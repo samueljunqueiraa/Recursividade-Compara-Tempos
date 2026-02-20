@@ -40,4 +40,4 @@ O programa executa cálculos clássicos utilizando as duas abordagens e cronomet
 
 3. Execute a classe principal para visualizar os outputs de tempo no console.
 
-### Curiosidade Acadêmica: Este projeto faz parte da minha jornada para me tornar um melhor Desenvolvedor Java e, futuramente, compartilhar esse conhecimento no universo Universitário.
+#### Curiosidade Acadêmica: Este projeto faz parte da minha jornada para me tornar um melhor Desenvolvedor Java e, futuramente, compartilhar esse conhecimento no universo Universitário.
